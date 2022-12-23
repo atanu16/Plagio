@@ -3,7 +3,7 @@ A plagiarism detector for assignment submission .
 
 <p> <em>This Website will compare different files and will provide us a plagiarism report where <br>
 we can see the percentage of similarities between the files. <br>
-It will also show us the percentage of similarity between the files with the file name.<br><em></p>
+It will also show us the percentage of similarity between the files with the file name.<br></em></p>
 
 
  This software can accept different file formats like Word file and PPT’s. <br>
