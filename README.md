@@ -11,7 +11,7 @@ It will also show us the percentage of similarity between the files with the fil
  It will highlight the main lines or words that are similar between the files</li><br>
 
 
-<h3>Demo</h1>
+##Demo
 
 [Demo](https://plagio.ml/?i=1). 
 <img align="center" src="https://user-images.githubusercontent.com/83860778/208317695-04a2826a-c194-4974-a6d8-2be8e40233e4.png">
