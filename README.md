@@ -25,6 +25,7 @@ It will also show us the percentage of similarity between the files with the fil
 <li>Download XAMPP server</li>
 <li>Move the folder to htdocs folder in XAMPP </li>
 <li>Navigate to 
+  
   http://localhost/Plagio-main</li>
 </ul>
 
