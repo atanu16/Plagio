@@ -17,9 +17,10 @@ It will also show us the percentage of similarity between the files with the fil
 <img align="center" src="https://user-images.githubusercontent.com/83860778/208317695-04a2826a-c194-4974-a6d8-2be8e40233e4.png">
 
 <h1>Installation</h1>
+[Zip File](https://codeload.github.com/atanu16/Plagio/zip/refs/heads/main)
 <ul>
 <li>Download the [Demo](https://plagio.ml/?i=1).  </li> 
-[Zip File](https://codeload.github.com/atanu16/Plagio/zip/refs/heads/main)
+
 <li>Download XAMPP server</li>
 <li>Move the folder to htdocs folder in XAMPP </li>
 <li>Navigate to http://localhost/Plagio</li>
