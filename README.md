@@ -23,6 +23,8 @@ It will also show us the percentage of similarity between the files with the fil
 <li>Download the ZipFile (https://codeload.github.com/atanu16/Plagio/zip/refs/heads/main).  </li> 
 
 <li>Download XAMPP server</li>
+  <li>Run AXMPP Control Panel</li>
+  <li>Start Apache</li>
 <li>Move the folder to htdocs folder in XAMPP </li>
 <li>Navigate to 
   
