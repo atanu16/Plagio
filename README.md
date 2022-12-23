@@ -20,8 +20,8 @@ It will also show us the percentage of similarity between the files with the fil
 <h1>Installation</h1>
 
 <ul>
-<li>Download the [Demo](https://plagio.ml/?i=1).  </li> 
-[ZipFile](https://codeload.github.com/atanu16/Plagio/zip/refs/heads/main)
+<li>Download the ZipFile (https://codeload.github.com/atanu16/Plagio/zip/refs/heads/main).  </li> 
+
 <li>Download XAMPP server</li>
 <li>Move the folder to htdocs folder in XAMPP </li>
 <li>Navigate to http://localhost/Plagio</li>
