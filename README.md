@@ -20,7 +20,7 @@ It will also show us the percentage of similarity between the files with the fil
 <h1>Installation</h1>
 
 <ul>
-<li>Download the ZipFile (https://codeload.github.com/atanu16/Plagio/zip/refs/heads/main).  </li> 
+<li>Download the Zip File and Extract it (https://codeload.github.com/atanu16/Plagio/zip/refs/heads/main).  </li> 
 
 <li>Download XAMPP server</li>
   <li>Run AXMPP Control Panel</li>
