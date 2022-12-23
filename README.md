@@ -6,9 +6,9 @@ we can see the percentage of similarities between the files. <br>
 It will also show us the percentage of similarity between the files with the file name.<br><em></p>
 
 
- This software can accept different file formats like Word file and PPT’s.
- The number of file comparison can be increased from 20 to 50 or 100 at a time.
- It will highlight the main lines or words that are similar between the files</li>
+ This software can accept different file formats like Word file and PPT’s. <br>
+ The number of file comparison can be increased from 20 to 50 or 100 at a time.<br>
+ It will highlight the main lines or words that are similar between the files</li><br>
 
 
 <h3>Demo</h1>
