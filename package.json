@@ -1,0 +1,35 @@
+{
+  "name": "plagio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atanu16/Plagio.git"
+  },
+  "author": "Atanu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atanu16/Plagio/issues"
+  },
+  "homepage": "https://github.com/atanu16/Plagio#readme",
+  "description": "",
+  "dependencies": {
+    "cosine-similarity": "^1.0.1",
+    "express": "^4.19.2",
+    "express-fileupload": "^1.5.0",
+    "fs": "^0.0.1-security",
+    "mammoth": "^1.7.2",
+    "natural": "^7.0.6",
+    "officeparser": "^4.1.1",
+    "pdf-parse": "^1.1.1",
+    "textract": "^2.5.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
