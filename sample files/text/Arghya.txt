@@ -1,0 +1,6 @@
+Name: Arghya Bag
+UID: 20BCS2614
+
+AIM: Plagiarism Detector
+
+The act of presenting someone else's ideas or work as your own, with or without that person's consent, by incorporating it into your work without giving it due credit, is known as plagiarism. This definition applies to all works, both published and unpublished, whether they are in manuscript, print, or electronic form.

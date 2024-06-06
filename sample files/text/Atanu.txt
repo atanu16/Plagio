@@ -1,0 +1,6 @@
+Name: Atanu Bera
+UID: 20BCS2564
+
+AIM: Plagiarism Detector
+
+Plagiarism is presenting someone else's work or ideas as your own, with or without their consent, by incorporating it into your work without full acknowledgement. 
