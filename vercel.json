@@ -7,7 +7,9 @@
       }
     ],
     "routes": [
-      { "handle": "vercel" }
+      {
+        "src": "/(.*)",
+        "dest": "/server.js"
+      }
     ]
   }
-  
